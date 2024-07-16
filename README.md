@@ -32,16 +32,16 @@
   <a href="https://twitter.com/rishavranjan__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavranjan__" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/hrishav-ranjan-6b358a254/" target="blank">
+  <a href="https://www.linkedin.com/in/hrishav-ranjan-6b358a254/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrishav-ranjan-6b358a254/" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/rishavranjan__/" target="blank">
+  <a href="https://www.instagram.com/rishavranjan__/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishavranjan__/" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@theinfinity2001" target="blank">
+  <a href="https://www.youtube.com/@theinfinity2001" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@theinfinity2001" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/hrishavranjan/" target="blank">
+  <a href="https://leetcode.com/u/hrishavranjan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hrishavranjan/" height="30" width="40" />
   </a>
 </p>
