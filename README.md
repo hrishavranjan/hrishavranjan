@@ -1,21 +1,19 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZzMDluMHhnaHZ4ajR5ajFjZHFuOG4wYWI3OTZzaGM2Y3Y5bjF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.webp" align="center" height="150" width="150" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZzMDluMHhnaHZ4ajR5ajFjZHFuOG4wYWI3OTZzaGM2Y3Y5bjF6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.webp" align="center" height="150" width="150" />
 </div> 
-
 
 <h1 align="center">Hey 👋, I'm Hrishav Ranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR6MXF1b3JqangweGxkcjN3bWcwcWZlbjE4ZWMzMzFyNDN3ZzJyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hrishavranjan&label=Profile%20views&color=0e75b6&style=flat" alt="hrishavranjan" /> 
 </p>
 
-- 🔭 I’m currently working on **Madat**
+- 🔭 I’m currently working on **Madat(A upcoming Web Application)**
 
-- 🌱 I’m currently learning **Android Development, Java**
+- 🌱 I’m currently learning **Android Development,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrishavranjan?tab=repositories)
 
@@ -107,14 +105,21 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishavranjan&show_icons=true&locale=en" alt="hrishavranjan" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishavranjan&" alt="hrishavranjan" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishavranjan&show_icons=true&locale=en&layout=compact" alt="hrishavranjan" />
-</p>
-
-(https://leetcard.jacoblin.cool/hrishavranjan?theme=unicorn)
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishavranjan&show_icons=true&locale=en" alt="hrishavranjan" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishavranjan&" alt="hrishavranjan" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishavranjan&show_icons=true&locale=en&layout=compact" alt="hrishavranjan" />
+    </td>
+    <td>
+      <img align="center" src="https://leetcard.jacoblin.cool/hrishavranjan?theme=nord" alt="hrishavranjan" />
+    </td>
+  </tr>
+</table>
