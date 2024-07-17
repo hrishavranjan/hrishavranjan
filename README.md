@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Android Development, Java**
 
-- 👨‍💻 All of my projects are available at [https://hrishavranjan.github.io/Protfolio/](https://hrishavranjan.github.io/Protfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/hrishavranjan?tab=repositories)
 
 - 💬 Ask me about **Code**
 
