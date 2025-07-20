@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=hrishavranjan&label=Profile%20views&color=0e75b6&style=flat" alt="hrishavranjan" /> 
 </p>
 
-- 🔭 I’m currently working on **Madat(A upcoming Web Application)**
+- 🔭 I’m currently working on **journey-planner(A upcoming Web and APP Travel Application)**
 
 - 🌱 I’m currently learning **Android Development,Java**
 
